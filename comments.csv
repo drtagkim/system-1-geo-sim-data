@@ -1,0 +1,379 @@
+﻿id,product,category,lang,text,aspect1,mention1,pol1,hard1,aspect2,mention2,pol2,hard2
+C0001,P1,kpop,ko,타이틀곡 멜로디가 계속 귓가에 맴돌아요. 무대에서 라이브가 너무 불안해서 아쉬웠어요. 배송은 이틀 걸렸어요.,music,1,pos,0,performance,1,neg,0
+C0002,P1,kpop,ko,무대에서 라이브가 너무 불안해서 아쉬웠어요. 포장은 평범했습니다.,music,0,,0,performance,1,neg,0
+C0003,P1,kpop,ko,"라이브 실력이 대단하네요, 음원이랑 완전 다른 사람인 줄 알았어요. 수록곡 구성이 정말 탄탄한 앨범입니다.",music,1,pos,0,performance,1,neg,1
+C0004,P1,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다. 칼군무에 라이브까지 완벽한 무대였어요. 배송은 이틀 걸렸어요.,music,1,pos,0,performance,1,pos,0
+C0005,P1,kpop,ko,타이틀곡 멜로디가 계속 귓가에 맴돌아요. 무대에서 라이브가 너무 불안해서 아쉬웠어요. 배송은 이틀 걸렸어요.,music,1,pos,0,performance,1,neg,0
+C0006,P1,kpop,ko,무대에서 라이브가 너무 불안해서 아쉬웠어요. 수록곡 구성이 정말 탄탄한 앨범입니다.,music,1,pos,0,performance,1,neg,0
+C0007,P1,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다. 배송은 이틀 걸렸어요.,music,1,pos,0,performance,0,,0
+C0008,P1,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다. 무대에서 라이브가 너무 불안해서 아쉬웠어요.,music,1,pos,0,performance,1,neg,0
+C0009,P1,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다. 배송은 이틀 걸렸어요.,music,1,pos,0,performance,0,,0
+C0010,P1,kpop,ko,후렴이 너무 평범해서 기억에 안 남네요. 퍼포먼스 합이 소름 돋을 정도로 좋았습니다.,music,1,neg,0,performance,1,pos,0
+C0011,P1,kpop,ko,"라이브 실력이 대단하네요, 음원이랑 완전 다른 사람인 줄 알았어요. 수록곡 구성이 정말 탄탄한 앨범입니다.",music,1,pos,0,performance,1,neg,1
+C0012,P1,kpop,ko,퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 타이틀곡 멜로디가 계속 귓가에 맴돌아요.,music,1,pos,0,performance,1,pos,0
+C0013,P1,kpop,ko,"라이브 실력이 대단하네요, 음원이랑 완전 다른 사람인 줄 알았어요. 수록곡 구성이 정말 탄탄한 앨범입니다.",music,1,pos,0,performance,1,neg,1
+C0014,P1,kpop,ko,타이틀곡 멜로디가 계속 귓가에 맴돌아요.,music,1,pos,0,performance,0,,0
+C0015,P1,kpop,en,The choreography looked messy and out of sync on stage.,music,0,,0,performance,1,neg,0
+C0016,P1,kpop,en,"Every track sounds the same, I got bored halfway through. The choreography is razor sharp and the live vocals are stable. Packaging was ordinary.",music,1,neg,0,performance,1,pos,0
+C0017,P1,kpop,en,The live vocals were shaky and the dance felt sloppy. Shipping took two days.,music,0,,0,performance,1,neg,0
+C0018,P1,kpop,en,"Every track sounds the same, I got bored halfway through.",music,1,neg,0,performance,0,,0
+C0019,P1,kpop,en,The live vocals were shaky and the dance felt sloppy. The melodies are catchy and the whole album flows really well.,music,1,pos,0,performance,1,neg,0
+C0020,P1,kpop,en,The live vocals were shaky and the dance felt sloppy. The melodies are catchy and the whole album flows really well.,music,1,pos,0,performance,1,neg,0
+C0021,P1,kpop,en,The choreography looked messy and out of sync on stage. Shipping took two days.,music,0,,0,performance,1,neg,0
+C0022,P1,kpop,en,The melodies are catchy and the whole album flows really well.,music,1,pos,0,performance,0,,0
+C0023,P1,kpop,en,The choreography is razor sharp and the live vocals are stable.,music,0,,0,performance,1,pos,0
+C0024,P1,kpop,en,The choreography is razor sharp and the live vocals are stable. The melodies are catchy and the whole album flows really well.,music,1,pos,0,performance,1,pos,0
+C0025,P1,kpop,en,"Best songwriting I've heard from them, the tracks are so polished. Great live show if you enjoy guessing which notes they were aiming for.",music,1,pos,0,performance,1,neg,1
+C0026,P1,kpop,en,The live vocals were shaky and the dance felt sloppy. Shipping took two days.,music,0,,0,performance,1,neg,0
+C0027,P1,kpop,en,The melodies are catchy and the whole album flows really well. Packaging was ordinary.,music,1,pos,0,performance,0,,0
+C0028,P1,kpop,en,"Their stage presence was unreal, every move was in sync. Best songwriting I've heard from them, the tracks are so polished. Packaging was ordinary.",music,1,pos,0,performance,1,pos,0
+C0029,P1,kpop,es,"Su presencia en el escenario fue increíble. Las canciones están muy bien producidas, me encantó el disco. El empaque era normal.",music,1,pos,0,performance,1,pos,0
+C0030,P1,kpop,es,En vivo desafinaron mucho y el baile se veía desordenado. Las melodías son pegajosas y el álbum suena muy completo.,music,1,pos,0,performance,1,neg,0
+C0031,P1,kpop,es,En vivo desafinaron mucho y el baile se veía desordenado. El empaque era normal.,music,0,,0,performance,1,neg,0
+C0032,P1,kpop,es,"La coreografía estaba descoordinada, una decepción. El envío tardó dos días.",music,0,,0,performance,1,neg,0
+C0033,P1,kpop,es,"Las canciones están muy bien producidas, me encantó el disco. La coreografía estaba descoordinada, una decepción. El envío tardó dos días.",music,1,pos,0,performance,1,neg,0
+C0034,P1,kpop,es,Su presencia en el escenario fue increíble.,music,0,,0,performance,1,pos,0
+C0035,P1,kpop,es,Las melodías son pegajosas y el álbum suena muy completo. El empaque era normal.,music,1,pos,0,performance,0,,0
+C0036,P1,kpop,es,"Todas las canciones suenan igual, me aburrí rápido.",music,1,neg,0,performance,0,,0
+C0037,P1,kpop,es,Las melodías son pegajosas y el álbum suena muy completo. En vivo desafinaron mucho y el baile se veía desordenado. El envío tardó dos días.,music,1,pos,0,performance,1,neg,0
+C0038,P1,kpop,es,En vivo desafinaron mucho y el baile se veía desordenado.,music,0,,0,performance,1,neg,0
+C0039,P1,kpop,es,"Las canciones están muy bien producidas, me encantó el disco. El envío tardó dos días.",music,1,pos,0,performance,0,,0
+C0040,P1,kpop,es,"La coreografía es perfecta y cantan muy bien en vivo. Todas las canciones suenan igual, me aburrí rápido.",music,1,neg,0,performance,1,pos,0
+C0041,P1,kpop,es,"Las canciones están muy bien producidas, me encantó el disco. El empaque era normal.",music,1,pos,0,performance,0,,0
+C0042,P1,kpop,es,Su presencia en el escenario fue increíble. Las melodías son pegajosas y el álbum suena muy completo.,music,1,pos,0,performance,1,pos,0
+C0043,P2,kpop,ko,"라이브 실력이 대단하네요, 음원이랑 완전 다른 사람인 줄 알았어요. 노래들이 다 비슷비슷해서 금방 질려요.",music,1,neg,0,performance,1,neg,1
+C0044,P2,kpop,ko,퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 포장은 평범했습니다.,music,0,,0,performance,1,pos,0
+C0045,P2,kpop,ko,칼군무에 라이브까지 완벽한 무대였어요. 포장은 평범했습니다.,music,0,,0,performance,1,pos,0
+C0046,P2,kpop,ko,칼군무에 라이브까지 완벽한 무대였어요. 포장은 평범했습니다.,music,0,,0,performance,1,pos,0
+C0047,P2,kpop,ko,노래들이 다 비슷비슷해서 금방 질려요. 퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 배송은 이틀 걸렸어요.,music,1,neg,0,performance,1,pos,0
+C0048,P2,kpop,ko,칼군무에 라이브까지 완벽한 무대였어요. 배송은 이틀 걸렸어요.,music,0,,0,performance,1,pos,0
+C0049,P2,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다. 퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 배송은 이틀 걸렸어요.,music,1,pos,0,performance,1,pos,0
+C0050,P2,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다. 포장은 평범했습니다.,music,1,pos,0,performance,0,,0
+C0051,P2,kpop,ko,노래들이 다 비슷비슷해서 금방 질려요. 안무가 산만해서 눈에 안 들어오네요. 배송은 이틀 걸렸어요.,music,1,neg,0,performance,1,neg,0
+C0052,P2,kpop,ko,퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 포장은 평범했습니다.,music,0,,0,performance,1,pos,0
+C0053,P2,kpop,ko,칼군무에 라이브까지 완벽한 무대였어요. 배송은 이틀 걸렸어요.,music,0,,0,performance,1,pos,0
+C0054,P2,kpop,ko,무대에서 라이브가 너무 불안해서 아쉬웠어요.,music,0,,0,performance,1,neg,0
+C0055,P2,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다.,music,1,pos,0,performance,0,,0
+C0056,P2,kpop,ko,후렴이 너무 평범해서 기억에 안 남네요. 포장은 평범했습니다.,music,1,neg,0,performance,0,,0
+C0057,P2,kpop,en,The choreography is razor sharp and the live vocals are stable.,music,0,,0,performance,1,pos,0
+C0058,P2,kpop,en,"Every track sounds the same, I got bored halfway through. Shipping took two days.",music,1,neg,0,performance,0,,0
+C0059,P2,kpop,en,The choreography is razor sharp and the live vocals are stable.,music,0,,0,performance,1,pos,0
+C0060,P2,kpop,en,"The melodies are catchy and the whole album flows really well. Their stage presence was unreal, every move was in sync. Shipping took two days.",music,1,pos,0,performance,1,pos,0
+C0061,P2,kpop,en,The choreography looked messy and out of sync on stage. The hooks are forgettable and the production feels generic.,music,1,neg,0,performance,1,neg,0
+C0062,P2,kpop,en,The choreography is razor sharp and the live vocals are stable.,music,0,,0,performance,1,pos,0
+C0063,P2,kpop,en,The choreography is razor sharp and the live vocals are stable.,music,0,,0,performance,1,pos,0
+C0064,P2,kpop,en,"Wow, such range, I could swear it's the same song on repeat for forty minutes. The choreography is razor sharp and the live vocals are stable.",music,1,neg,1,performance,1,pos,0
+C0065,P2,kpop,en,"Wow, such range, I could swear it's the same song on repeat for forty minutes.",music,1,neg,1,performance,0,,0
+C0066,P2,kpop,en,"Their stage presence was unreal, every move was in sync. Shipping took two days.",music,0,,0,performance,1,pos,0
+C0067,P2,kpop,en,The choreography is razor sharp and the live vocals are stable. The melodies are catchy and the whole album flows really well. Shipping took two days.,music,1,pos,0,performance,1,pos,0
+C0068,P2,kpop,en,"Their stage presence was unreal, every move was in sync. Best songwriting I've heard from them, the tracks are so polished. Shipping took two days.",music,1,pos,0,performance,1,pos,0
+C0069,P2,kpop,en,"Every track sounds the same, I got bored halfway through. The choreography is razor sharp and the live vocals are stable.",music,1,neg,0,performance,1,pos,0
+C0070,P2,kpop,en,The hooks are forgettable and the production feels generic. Packaging was ordinary.,music,1,neg,0,performance,0,,0
+C0071,P2,kpop,es,La coreografía es perfecta y cantan muy bien en vivo.,music,0,,0,performance,1,pos,0
+C0072,P2,kpop,es,La coreografía es perfecta y cantan muy bien en vivo. El envío tardó dos días.,music,0,,0,performance,1,pos,0
+C0073,P2,kpop,es,"Su presencia en el escenario fue increíble. Todas las canciones suenan igual, me aburrí rápido.",music,1,neg,0,performance,1,pos,0
+C0074,P2,kpop,es,"Todas las canciones suenan igual, me aburrí rápido. La coreografía es perfecta y cantan muy bien en vivo.",music,1,neg,0,performance,1,pos,0
+C0075,P2,kpop,es,"Todas las canciones suenan igual, me aburrí rápido. El envío tardó dos días.",music,1,neg,0,performance,0,,0
+C0076,P2,kpop,es,Los estribillos son olvidables y la producción es genérica. Su presencia en el escenario fue increíble.,music,1,neg,0,performance,1,pos,0
+C0077,P2,kpop,es,Las melodías son pegajosas y el álbum suena muy completo. El envío tardó dos días.,music,1,pos,0,performance,0,,0
+C0078,P2,kpop,es,En vivo desafinaron mucho y el baile se veía desordenado.,music,0,,0,performance,1,neg,0
+C0079,P2,kpop,es,"La coreografía estaba descoordinada, una decepción. Las melodías son pegajosas y el álbum suena muy completo. El empaque era normal.",music,1,pos,0,performance,1,neg,0
+C0080,P2,kpop,es,Su presencia en el escenario fue increíble. El envío tardó dos días.,music,0,,0,performance,1,pos,0
+C0081,P2,kpop,es,Su presencia en el escenario fue increíble. El empaque era normal.,music,0,,0,performance,1,pos,0
+C0082,P2,kpop,es,Las melodías son pegajosas y el álbum suena muy completo. El empaque era normal.,music,1,pos,0,performance,0,,0
+C0083,P2,kpop,es,"Su presencia en el escenario fue increíble. Todas las canciones suenan igual, me aburrí rápido. El envío tardó dos días.",music,1,neg,0,performance,1,pos,0
+C0084,P2,kpop,es,"Las canciones están muy bien producidas, me encantó el disco.",music,1,pos,0,performance,0,,0
+C0085,P3,kpop,ko,퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 배송은 이틀 걸렸어요.,music,0,,0,performance,1,pos,0
+C0086,P3,kpop,ko,무대에서 라이브가 너무 불안해서 아쉬웠어요.,music,0,,0,performance,1,neg,0
+C0087,P3,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다.,music,1,pos,0,performance,0,,0
+C0088,P3,kpop,ko,퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 타이틀곡 멜로디가 계속 귓가에 맴돌아요.,music,1,pos,0,performance,1,pos,0
+C0089,P3,kpop,ko,수록곡 구성이 정말 탄탄한 앨범입니다. 칼군무에 라이브까지 완벽한 무대였어요. 배송은 이틀 걸렸어요.,music,1,pos,0,performance,1,pos,0
+C0090,P3,kpop,ko,타이틀곡 멜로디가 계속 귓가에 맴돌아요.,music,1,pos,0,performance,0,,0
+C0091,P3,kpop,ko,퍼포먼스 합이 소름 돋을 정도로 좋았습니다.,music,0,,0,performance,1,pos,0
+C0092,P3,kpop,ko,노래들이 다 비슷비슷해서 금방 질려요. 안무가 산만해서 눈에 안 들어오네요. 포장은 평범했습니다.,music,1,neg,0,performance,1,neg,0
+C0093,P3,kpop,ko,칼군무에 라이브까지 완벽한 무대였어요. 포장은 평범했습니다.,music,0,,0,performance,1,pos,0
+C0094,P3,kpop,ko,타이틀곡 멜로디가 계속 귓가에 맴돌아요. 포장은 평범했습니다.,music,1,pos,0,performance,0,,0
+C0095,P3,kpop,ko,타이틀곡 멜로디가 계속 귓가에 맴돌아요.,music,1,pos,0,performance,0,,0
+C0096,P3,kpop,ko,안무가 산만해서 눈에 안 들어오네요.,music,0,,0,performance,1,neg,0
+C0097,P3,kpop,ko,퍼포먼스 합이 소름 돋을 정도로 좋았습니다. 타이틀곡 멜로디가 계속 귓가에 맴돌아요.,music,1,pos,0,performance,1,pos,0
+C0098,P3,kpop,ko,타이틀곡 멜로디가 계속 귓가에 맴돌아요.,music,1,pos,0,performance,0,,0
+C0099,P3,kpop,en,The melodies are catchy and the whole album flows really well.,music,1,pos,0,performance,0,,0
+C0100,P3,kpop,en,"Their stage presence was unreal, every move was in sync.",music,0,,0,performance,1,pos,0
+C0101,P3,kpop,en,Great live show if you enjoy guessing which notes they were aiming for.,music,0,,0,performance,1,neg,1
+C0102,P3,kpop,en,"Wow, such range, I could swear it's the same song on repeat for forty minutes. The choreography looked messy and out of sync on stage. Shipping took two days.",music,1,neg,1,performance,1,neg,0
+C0103,P3,kpop,en,The choreography looked messy and out of sync on stage. The hooks are forgettable and the production feels generic. Packaging was ordinary.,music,1,neg,0,performance,1,neg,0
+C0104,P3,kpop,en,The choreography looked messy and out of sync on stage. Packaging was ordinary.,music,0,,0,performance,1,neg,0
+C0105,P3,kpop,en,The choreography looked messy and out of sync on stage. The melodies are catchy and the whole album flows really well.,music,1,pos,0,performance,1,neg,0
+C0106,P3,kpop,en,"Their stage presence was unreal, every move was in sync. Packaging was ordinary.",music,0,,0,performance,1,pos,0
+C0107,P3,kpop,en,The choreography looked messy and out of sync on stage. Packaging was ordinary.,music,0,,0,performance,1,neg,0
+C0108,P3,kpop,en,The melodies are catchy and the whole album flows really well. Shipping took two days.,music,1,pos,0,performance,0,,0
+C0109,P3,kpop,en,"Best songwriting I've heard from them, the tracks are so polished.",music,1,pos,0,performance,0,,0
+C0110,P3,kpop,en,"Best songwriting I've heard from them, the tracks are so polished. Shipping took two days.",music,1,pos,0,performance,0,,0
+C0111,P3,kpop,en,The choreography is razor sharp and the live vocals are stable.,music,0,,0,performance,1,pos,0
+C0112,P3,kpop,en,The live vocals were shaky and the dance felt sloppy.,music,0,,0,performance,1,neg,0
+C0113,P3,kpop,es,"La coreografía estaba descoordinada, una decepción. El envío tardó dos días.",music,0,,0,performance,1,neg,0
+C0114,P3,kpop,es,"La coreografía estaba descoordinada, una decepción.",music,0,,0,performance,1,neg,0
+C0115,P3,kpop,es,"La coreografía estaba descoordinada, una decepción. Las melodías son pegajosas y el álbum suena muy completo.",music,1,pos,0,performance,1,neg,0
+C0116,P3,kpop,es,"Todas las canciones suenan igual, me aburrí rápido.",music,1,neg,0,performance,0,,0
+C0117,P3,kpop,es,"Las canciones están muy bien producidas, me encantó el disco. En vivo desafinaron mucho y el baile se veía desordenado. El empaque era normal.",music,1,pos,0,performance,1,neg,0
+C0118,P3,kpop,es,En vivo desafinaron mucho y el baile se veía desordenado. Las melodías son pegajosas y el álbum suena muy completo. El envío tardó dos días.,music,1,pos,0,performance,1,neg,0
+C0119,P3,kpop,es,"Las canciones están muy bien producidas, me encantó el disco. En vivo desafinaron mucho y el baile se veía desordenado.",music,1,pos,0,performance,1,neg,0
+C0120,P3,kpop,es,En vivo desafinaron mucho y el baile se veía desordenado. Las melodías son pegajosas y el álbum suena muy completo.,music,1,pos,0,performance,1,neg,0
+C0121,P3,kpop,es,"En vivo desafinaron mucho y el baile se veía desordenado. Todas las canciones suenan igual, me aburrí rápido. El empaque era normal.",music,1,neg,0,performance,1,neg,0
+C0122,P3,kpop,es,"Las canciones están muy bien producidas, me encantó el disco. En vivo desafinaron mucho y el baile se veía desordenado. El empaque era normal.",music,1,pos,0,performance,1,neg,0
+C0123,P3,kpop,es,"Todas las canciones suenan igual, me aburrí rápido. Su presencia en el escenario fue increíble. El envío tardó dos días.",music,1,neg,0,performance,1,pos,0
+C0124,P3,kpop,es,"Las canciones están muy bien producidas, me encantó el disco. La coreografía estaba descoordinada, una decepción. El empaque era normal.",music,1,pos,0,performance,1,neg,0
+C0125,P3,kpop,es,Las melodías son pegajosas y el álbum suena muy completo.,music,1,pos,0,performance,0,,0
+C0126,P3,kpop,es,Las melodías son pegajosas y el álbum suena muy completo. En vivo desafinaron mucho y el baile se veía desordenado.,music,1,pos,0,performance,1,neg,0
+C0127,F1,food,ko,이 가격에 이 양이면 가성비 최고예요. 포장은 평범했습니다.,taste,0,,0,value,1,pos,0
+C0128,F1,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요. 이 가격에 이 양이면 가성비 최고예요. 포장은 평범했습니다.,taste,1,pos,0,value,1,pos,0
+C0129,F1,food,ko,이 가격에 이 양이면 가성비 최고예요.,taste,0,,0,value,1,pos,0
+C0130,F1,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요.,taste,1,pos,0,value,0,,0
+C0131,F1,food,ko,이 가격에 이 양이면 가성비 최고예요.,taste,0,,0,value,1,pos,0
+C0132,F1,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요. 마트 할인가로 사면 정말 부담 없는 가격입니다. 배송은 이틀 걸렸어요.,taste,1,pos,0,value,1,pos,0
+C0133,F1,food,ko,마트 할인가로 사면 정말 부담 없는 가격입니다. 면발도 쫄깃하고 맛이 정말 훌륭해요. 배송은 이틀 걸렸어요.,taste,1,pos,0,value,1,pos,0
+C0134,F1,food,ko,마트 할인가로 사면 정말 부담 없는 가격입니다. 배송은 이틀 걸렸어요.,taste,0,,0,value,1,pos,0
+C0135,F1,food,ko,양에 비해 가격이 너무 비싸요. 포장은 평범했습니다.,taste,0,,0,value,1,neg,0
+C0136,F1,food,ko,마트 할인가로 사면 정말 부담 없는 가격입니다.,taste,0,,0,value,1,pos,0
+C0137,F1,food,ko,이 가격에 이 양이면 가성비 최고예요.,taste,0,,0,value,1,pos,0
+C0138,F1,food,ko,양에 비해 가격이 너무 비싸요.,taste,0,,0,value,1,neg,0
+C0139,F1,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요. 마트 할인가로 사면 정말 부담 없는 가격입니다.,taste,1,pos,0,value,1,pos,0
+C0140,F1,food,ko,이 가격에 이 양이면 가성비 최고예요.,taste,0,,0,value,1,pos,0
+C0141,F1,food,en,"For this price it's a steal, great value for money.",taste,0,,0,value,1,pos,0
+C0142,F1,food,en,"The broth is rich and spicy, totally addictive. Shipping took two days.",taste,1,pos,0,value,0,,0
+C0143,F1,food,en,Noodles have a great chewy texture and the flavor is amazing. Way overpriced for such a small portion.,taste,1,pos,0,value,1,neg,0
+C0144,F1,food,en,Noodles have a great chewy texture and the flavor is amazing. Way overpriced for such a small portion.,taste,1,pos,0,value,1,neg,0
+C0145,F1,food,en,"Cheap enough to stock up on, totally worth it.",taste,0,,0,value,1,pos,0
+C0146,F1,food,en,"Cheap enough to stock up on, totally worth it. Packaging was ordinary.",taste,0,,0,value,1,pos,0
+C0147,F1,food,en,Way too salty and the flavor is bland at the same time. Packaging was ordinary.,taste,1,neg,0,value,0,,0
+C0148,F1,food,en,Noodles have a great chewy texture and the flavor is amazing. Packaging was ordinary.,taste,1,pos,0,value,0,,0
+C0149,F1,food,en,"For this price it's a steal, great value for money. Packaging was ordinary.",taste,0,,0,value,1,pos,0
+C0150,F1,food,en,Noodles have a great chewy texture and the flavor is amazing.,taste,1,pos,0,value,0,,0
+C0151,F1,food,en,Way overpriced for such a small portion. Packaging was ordinary.,taste,0,,0,value,1,neg,0
+C0152,F1,food,en,"Not worth the price, you can get better noodles for less.",taste,0,,0,value,1,neg,0
+C0153,F1,food,en,"The broth is rich and spicy, totally addictive. Shipping took two days.",taste,1,pos,0,value,0,,0
+C0154,F1,food,en,"Such a bold price for a portion that small, truly ambitious. The broth is rich and spicy, totally addictive.",taste,1,pos,0,value,1,neg,1
+C0155,F1,food,es,Es barato y vale la pena comprarlo en paquete. Los fideos son firmes y el sabor es buenísimo.,taste,1,pos,0,value,1,pos,0
+C0156,F1,food,es,Es barato y vale la pena comprarlo en paquete. Los fideos son firmes y el sabor es buenísimo.,taste,1,pos,0,value,1,pos,0
+C0157,F1,food,es,Los fideos son firmes y el sabor es buenísimo. El empaque era normal.,taste,1,pos,0,value,0,,0
+C0158,F1,food,es,"Es barato y vale la pena comprarlo en paquete. El caldo tiene un regusto raro, difícil de terminar. El empaque era normal.",taste,1,neg,0,value,1,pos,0
+C0159,F1,food,es,"Por este precio es una ganga, muy buena relación calidad-precio.",taste,0,,0,value,1,pos,0
+C0160,F1,food,es,"Es barato y vale la pena comprarlo en paquete. El caldo tiene un regusto raro, difícil de terminar. El empaque era normal.",taste,1,neg,0,value,1,pos,0
+C0161,F1,food,es,"El caldo es intenso y picante, adictivo. Es barato y vale la pena comprarlo en paquete. El envío tardó dos días.",taste,1,pos,0,value,1,pos,0
+C0162,F1,food,es,"No vale lo que cuesta, hay opciones mejores y más baratas.",taste,0,,0,value,1,neg,0
+C0163,F1,food,es,"No vale lo que cuesta, hay opciones mejores y más baratas. Los fideos son firmes y el sabor es buenísimo. El empaque era normal.",taste,1,pos,0,value,1,neg,0
+C0164,F1,food,es,Los fideos son firmes y el sabor es buenísimo. Demasiado caro para la cantidad que trae.,taste,1,pos,0,value,1,neg,0
+C0165,F1,food,es,"Demasiado salado y sin sabor a la vez. No vale lo que cuesta, hay opciones mejores y más baratas.",taste,1,neg,0,value,1,neg,0
+C0166,F1,food,es,"No vale lo que cuesta, hay opciones mejores y más baratas. El empaque era normal.",taste,0,,0,value,1,neg,0
+C0167,F1,food,es,"El caldo es intenso y picante, adictivo. El empaque era normal.",taste,1,pos,0,value,0,,0
+C0168,F1,food,es,"El caldo es intenso y picante, adictivo. Por este precio es una ganga, muy buena relación calidad-precio. El empaque era normal.",taste,1,pos,0,value,1,pos,0
+C0169,F2,food,ko,소금을 정말 아낌없이 넣어줘서 감동이었습니다.,taste,1,neg,1,value,0,,0
+C0170,F2,food,ko,소금을 정말 아낌없이 넣어줘서 감동이었습니다. 배송은 이틀 걸렸어요.,taste,1,neg,1,value,0,,0
+C0171,F2,food,ko,"이 가격에 이 양이라니, 정말 용기 있는 가격 책정이네요. 배송은 이틀 걸렸어요.",taste,0,,0,value,1,neg,1
+C0172,F2,food,ko,이 가격에 이 양이면 가성비 최고예요. 면발도 쫄깃하고 맛이 정말 훌륭해요. 포장은 평범했습니다.,taste,1,pos,0,value,1,pos,0
+C0173,F2,food,ko,너무 짜고 맛이 밍밍해서 다시는 안 사요. 마트 할인가로 사면 정말 부담 없는 가격입니다. 포장은 평범했습니다.,taste,1,neg,0,value,1,pos,0
+C0174,F2,food,ko,국물이 진하고 칼칼해서 중독성 있어요. 포장은 평범했습니다.,taste,1,pos,0,value,0,,0
+C0175,F2,food,ko,소금을 정말 아낌없이 넣어줘서 감동이었습니다.,taste,1,neg,1,value,0,,0
+C0176,F2,food,ko,한 봉지에 이 가격이면 가성비가 별로네요. 너무 짜고 맛이 밍밍해서 다시는 안 사요.,taste,1,neg,0,value,1,neg,0
+C0177,F2,food,ko,"면발도 쫄깃하고 맛이 정말 훌륭해요. 이 가격에 이 양이라니, 정말 용기 있는 가격 책정이네요. 배송은 이틀 걸렸어요.",taste,1,pos,0,value,1,neg,1
+C0178,F2,food,ko,너무 짜고 맛이 밍밍해서 다시는 안 사요. 이 가격에 이 양이면 가성비 최고예요. 포장은 평범했습니다.,taste,1,neg,0,value,1,pos,0
+C0179,F2,food,ko,마트 할인가로 사면 정말 부담 없는 가격입니다. 배송은 이틀 걸렸어요.,taste,0,,0,value,1,pos,0
+C0180,F2,food,ko,너무 짜고 맛이 밍밍해서 다시는 안 사요. 배송은 이틀 걸렸어요.,taste,1,neg,0,value,0,,0
+C0181,F2,food,ko,한 봉지에 이 가격이면 가성비가 별로네요.,taste,0,,0,value,1,neg,0
+C0182,F2,food,ko,국물에서 비린 맛이 나서 먹기 힘들었어요. 배송은 이틀 걸렸어요.,taste,1,neg,0,value,0,,0
+C0183,F2,food,en,"The broth is rich and spicy, totally addictive. Cheap enough to stock up on, totally worth it. Shipping took two days.",taste,1,pos,0,value,1,pos,0
+C0184,F2,food,en,"The broth is rich and spicy, totally addictive. Cheap enough to stock up on, totally worth it. Packaging was ordinary.",taste,1,pos,0,value,1,pos,0
+C0185,F2,food,en,"Love how generous they were with the salt, I could taste nothing else. For this price it's a steal, great value for money. Packaging was ordinary.",taste,1,neg,1,value,1,pos,0
+C0186,F2,food,en,"Cheap enough to stock up on, totally worth it. Packaging was ordinary.",taste,0,,0,value,1,pos,0
+C0187,F2,food,en,"Cheap enough to stock up on, totally worth it.",taste,0,,0,value,1,pos,0
+C0188,F2,food,en,"For this price it's a steal, great value for money. Love how generous they were with the salt, I could taste nothing else. Packaging was ordinary.",taste,1,neg,1,value,1,pos,0
+C0189,F2,food,en,Noodles have a great chewy texture and the flavor is amazing. Packaging was ordinary.,taste,1,pos,0,value,0,,0
+C0190,F2,food,en,Noodles have a great chewy texture and the flavor is amazing. Shipping took two days.,taste,1,pos,0,value,0,,0
+C0191,F2,food,en,"For this price it's a steal, great value for money. The broth is rich and spicy, totally addictive. Shipping took two days.",taste,1,pos,0,value,1,pos,0
+C0192,F2,food,en,"Not worth the price, you can get better noodles for less. Love how generous they were with the salt, I could taste nothing else. Packaging was ordinary.",taste,1,neg,1,value,1,neg,0
+C0193,F2,food,en,"The broth has a weird fishy aftertaste, hard to finish. For this price it's a steal, great value for money.",taste,1,neg,0,value,1,pos,0
+C0194,F2,food,en,Noodles have a great chewy texture and the flavor is amazing.,taste,1,pos,0,value,0,,0
+C0195,F2,food,en,"The broth is rich and spicy, totally addictive. Packaging was ordinary.",taste,1,pos,0,value,0,,0
+C0196,F2,food,en,"Love how generous they were with the salt, I could taste nothing else. For this price it's a steal, great value for money.",taste,1,neg,1,value,1,pos,0
+C0197,F2,food,es,"El caldo es intenso y picante, adictivo. El empaque era normal.",taste,1,pos,0,value,0,,0
+C0198,F2,food,es,Demasiado salado y sin sabor a la vez. Es barato y vale la pena comprarlo en paquete. El envío tardó dos días.,taste,1,neg,0,value,1,pos,0
+C0199,F2,food,es,"El caldo tiene un regusto raro, difícil de terminar.",taste,1,neg,0,value,0,,0
+C0200,F2,food,es,"Los fideos son firmes y el sabor es buenísimo. Por este precio es una ganga, muy buena relación calidad-precio.",taste,1,pos,0,value,1,pos,0
+C0201,F2,food,es,"Es barato y vale la pena comprarlo en paquete. El caldo tiene un regusto raro, difícil de terminar.",taste,1,neg,0,value,1,pos,0
+C0202,F2,food,es,"Por este precio es una ganga, muy buena relación calidad-precio. El caldo tiene un regusto raro, difícil de terminar. El envío tardó dos días.",taste,1,neg,0,value,1,pos,0
+C0203,F2,food,es,"El caldo es intenso y picante, adictivo.",taste,1,pos,0,value,0,,0
+C0204,F2,food,es,"El caldo tiene un regusto raro, difícil de terminar.",taste,1,neg,0,value,0,,0
+C0205,F2,food,es,"El caldo tiene un regusto raro, difícil de terminar.",taste,1,neg,0,value,0,,0
+C0206,F2,food,es,"El caldo tiene un regusto raro, difícil de terminar. Es barato y vale la pena comprarlo en paquete. El envío tardó dos días.",taste,1,neg,0,value,1,pos,0
+C0207,F2,food,es,Los fideos son firmes y el sabor es buenísimo.,taste,1,pos,0,value,0,,0
+C0208,F2,food,es,"El caldo tiene un regusto raro, difícil de terminar.",taste,1,neg,0,value,0,,0
+C0209,F2,food,es,"Por este precio es una ganga, muy buena relación calidad-precio. El empaque era normal.",taste,0,,0,value,1,pos,0
+C0210,F2,food,es,"Por este precio es una ganga, muy buena relación calidad-precio. El caldo tiene un regusto raro, difícil de terminar.",taste,1,neg,0,value,1,pos,0
+C0211,F3,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요.,taste,1,pos,0,value,0,,0
+C0212,F3,food,ko,너무 짜고 맛이 밍밍해서 다시는 안 사요.,taste,1,neg,0,value,0,,0
+C0213,F3,food,ko,소금을 정말 아낌없이 넣어줘서 감동이었습니다.,taste,1,neg,1,value,0,,0
+C0214,F3,food,ko,너무 짜고 맛이 밍밍해서 다시는 안 사요. 마트 할인가로 사면 정말 부담 없는 가격입니다. 배송은 이틀 걸렸어요.,taste,1,neg,0,value,1,pos,0
+C0215,F3,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요.,taste,1,pos,0,value,0,,0
+C0216,F3,food,ko,국물이 진하고 칼칼해서 중독성 있어요. 이 가격에 이 양이면 가성비 최고예요.,taste,1,pos,0,value,1,pos,0
+C0217,F3,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요.,taste,1,pos,0,value,0,,0
+C0218,F3,food,ko,국물에서 비린 맛이 나서 먹기 힘들었어요.,taste,1,neg,0,value,0,,0
+C0219,F3,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요. 포장은 평범했습니다.,taste,1,pos,0,value,0,,0
+C0220,F3,food,ko,양에 비해 가격이 너무 비싸요. 면발도 쫄깃하고 맛이 정말 훌륭해요.,taste,1,pos,0,value,1,neg,0
+C0221,F3,food,ko,양에 비해 가격이 너무 비싸요. 면발도 쫄깃하고 맛이 정말 훌륭해요. 포장은 평범했습니다.,taste,1,pos,0,value,1,neg,0
+C0222,F3,food,ko,이 가격에 이 양이면 가성비 최고예요. 국물에서 비린 맛이 나서 먹기 힘들었어요. 배송은 이틀 걸렸어요.,taste,1,neg,0,value,1,pos,0
+C0223,F3,food,ko,면발도 쫄깃하고 맛이 정말 훌륭해요. 마트 할인가로 사면 정말 부담 없는 가격입니다. 배송은 이틀 걸렸어요.,taste,1,pos,0,value,1,pos,0
+C0224,F3,food,ko,한 봉지에 이 가격이면 가성비가 별로네요. 포장은 평범했습니다.,taste,0,,0,value,1,neg,0
+C0225,F3,food,en,Noodles have a great chewy texture and the flavor is amazing.,taste,1,pos,0,value,0,,0
+C0226,F3,food,en,Way too salty and the flavor is bland at the same time. Shipping took two days.,taste,1,neg,0,value,0,,0
+C0227,F3,food,en,"Such a bold price for a portion that small, truly ambitious.",taste,0,,0,value,1,neg,1
+C0228,F3,food,en,"For this price it's a steal, great value for money. The broth is rich and spicy, totally addictive. Packaging was ordinary.",taste,1,pos,0,value,1,pos,0
+C0229,F3,food,en,Noodles have a great chewy texture and the flavor is amazing. Packaging was ordinary.,taste,1,pos,0,value,0,,0
+C0230,F3,food,en,"The broth has a weird fishy aftertaste, hard to finish. Packaging was ordinary.",taste,1,neg,0,value,0,,0
+C0231,F3,food,en,Way too salty and the flavor is bland at the same time.,taste,1,neg,0,value,0,,0
+C0232,F3,food,en,"The broth is rich and spicy, totally addictive. Way overpriced for such a small portion. Packaging was ordinary.",taste,1,pos,0,value,1,neg,0
+C0233,F3,food,en,"For this price it's a steal, great value for money. Packaging was ordinary.",taste,0,,0,value,1,pos,0
+C0234,F3,food,en,"The broth has a weird fishy aftertaste, hard to finish. Packaging was ordinary.",taste,1,neg,0,value,0,,0
+C0235,F3,food,en,"The broth is rich and spicy, totally addictive. Packaging was ordinary.",taste,1,pos,0,value,0,,0
+C0236,F3,food,en,"The broth is rich and spicy, totally addictive. For this price it's a steal, great value for money. Shipping took two days.",taste,1,pos,0,value,1,pos,0
+C0237,F3,food,en,"The broth has a weird fishy aftertaste, hard to finish. Shipping took two days.",taste,1,neg,0,value,0,,0
+C0238,F3,food,en,"The broth is rich and spicy, totally addictive. For this price it's a steal, great value for money.",taste,1,pos,0,value,1,pos,0
+C0239,F3,food,es,"El caldo tiene un regusto raro, difícil de terminar.",taste,1,neg,0,value,0,,0
+C0240,F3,food,es,Demasiado caro para la cantidad que trae. El empaque era normal.,taste,0,,0,value,1,neg,0
+C0241,F3,food,es,"Por este precio es una ganga, muy buena relación calidad-precio. El envío tardó dos días.",taste,0,,0,value,1,pos,0
+C0242,F3,food,es,"Es barato y vale la pena comprarlo en paquete. El caldo tiene un regusto raro, difícil de terminar. El envío tardó dos días.",taste,1,neg,0,value,1,pos,0
+C0243,F3,food,es,Demasiado caro para la cantidad que trae. Los fideos son firmes y el sabor es buenísimo.,taste,1,pos,0,value,1,neg,0
+C0244,F3,food,es,"El caldo es intenso y picante, adictivo.",taste,1,pos,0,value,0,,0
+C0245,F3,food,es,"El caldo es intenso y picante, adictivo. El empaque era normal.",taste,1,pos,0,value,0,,0
+C0246,F3,food,es,"No vale lo que cuesta, hay opciones mejores y más baratas. El caldo tiene un regusto raro, difícil de terminar. El envío tardó dos días.",taste,1,neg,0,value,1,neg,0
+C0247,F3,food,es,Es barato y vale la pena comprarlo en paquete. El empaque era normal.,taste,0,,0,value,1,pos,0
+C0248,F3,food,es,"El caldo es intenso y picante, adictivo. Por este precio es una ganga, muy buena relación calidad-precio.",taste,1,pos,0,value,1,pos,0
+C0249,F3,food,es,"Demasiado caro para la cantidad que trae. El caldo es intenso y picante, adictivo.",taste,1,pos,0,value,1,neg,0
+C0250,F3,food,es,Demasiado caro para la cantidad que trae. Los fideos son firmes y el sabor es buenísimo. El empaque era normal.,taste,1,pos,0,value,1,neg,0
+C0251,F3,food,es,Los fideos son firmes y el sabor es buenísimo.,taste,1,pos,0,value,0,,0
+C0252,F3,food,es,Demasiado caro para la cantidad que trae. Los fideos son firmes y el sabor es buenísimo.,taste,1,pos,0,value,1,neg,0
+C0253,A1,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 배송은 이틀 걸렸어요.,quality,1,pos,0,fit,0,,0
+C0254,A1,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요.,quality,1,pos,0,fit,0,,0
+C0255,A1,apparel,ko,여러 번 빨아도 형태가 그대로라 만족합니다. 포장은 평범했습니다.,quality,1,pos,0,fit,0,,0
+C0256,A1,apparel,ko,어깨가 끼고 전체적으로 핏이 어색해요. 한 번 입고 빨았는데 새 옷이 순식간에 빈티지가 됐어요. 배송은 이틀 걸렸어요.,quality,1,neg,1,fit,1,neg,0
+C0257,A1,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 포장은 평범했습니다.,quality,1,pos,0,fit,0,,0
+C0258,A1,apparel,ko,핏이 예쁘게 떨어져서 만족합니다. 원단이 탄탄하고 바느질이 깔끔해요. 포장은 평범했습니다.,quality,1,pos,0,fit,1,pos,0
+C0259,A1,apparel,ko,여러 번 빨아도 형태가 그대로라 만족합니다.,quality,1,pos,0,fit,0,,0
+C0260,A1,apparel,ko,여러 번 빨아도 형태가 그대로라 만족합니다. 포장은 평범했습니다.,quality,1,pos,0,fit,0,,0
+C0261,A1,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 포장은 평범했습니다.,quality,1,pos,0,fit,0,,0
+C0262,A1,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 핏이 예쁘게 떨어져서 만족합니다.,quality,1,pos,0,fit,1,pos,0
+C0263,A1,apparel,ko,사이즈가 너무 작게 나와서 못 입겠어요. 포장은 평범했습니다.,quality,0,,0,fit,1,neg,0
+C0264,A1,apparel,ko,핏이 예쁘게 떨어져서 만족합니다. 배송은 이틀 걸렸어요.,quality,0,,0,fit,1,pos,0
+C0265,A1,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 배송은 이틀 걸렸어요.,quality,1,pos,0,fit,0,,0
+C0266,A1,apparel,ko,사이즈가 딱 맞고 착용감이 편해요. 배송은 이틀 걸렸어요.,quality,0,,0,fit,1,pos,0
+C0267,A1,apparel,en,Tight across the shoulders and the cut feels off. Shipping took two days.,quality,0,,0,fit,1,neg,0
+C0268,A1,apparel,en,Impressive how it aged into vintage after a single wash. True to size and really comfortable to wear. Packaging was ordinary.,quality,1,neg,1,fit,1,pos,0
+C0269,A1,apparel,en,The fabric feels sturdy and the stitching is clean.,quality,1,pos,0,fit,0,,0
+C0270,A1,apparel,en,True to size and really comfortable to wear. Packaging was ordinary.,quality,0,,0,fit,1,pos,0
+C0271,A1,apparel,en,Held up perfectly after many washes. True to size and really comfortable to wear. Shipping took two days.,quality,1,pos,0,fit,1,pos,0
+C0272,A1,apparel,en,The cut is flattering and fits perfectly. The fabric feels sturdy and the stitching is clean.,quality,1,pos,0,fit,1,pos,0
+C0273,A1,apparel,en,"Fits perfectly, if you happen to be a child. Packaging was ordinary.",quality,0,,0,fit,1,neg,1
+C0274,A1,apparel,en,Held up perfectly after many washes. Packaging was ordinary.,quality,1,pos,0,fit,0,,0
+C0275,A1,apparel,en,Held up perfectly after many washes. The cut is flattering and fits perfectly.,quality,1,pos,0,fit,1,pos,0
+C0276,A1,apparel,en,The fabric feels sturdy and the stitching is clean. Tight across the shoulders and the cut feels off. Packaging was ordinary.,quality,1,pos,0,fit,1,neg,0
+C0277,A1,apparel,en,"Runs way too small, I couldn't wear it. Shipping took two days.",quality,0,,0,fit,1,neg,0
+C0278,A1,apparel,en,"Runs way too small, I couldn't wear it.",quality,0,,0,fit,1,neg,0
+C0279,A1,apparel,en,Held up perfectly after many washes.,quality,1,pos,0,fit,0,,0
+C0280,A1,apparel,en,Held up perfectly after many washes.,quality,1,pos,0,fit,0,,0
+C0281,A1,apparel,es,Se llenó de pelusas al primer lavado y se descosió. El envío tardó dos días.,quality,1,neg,0,fit,0,,0
+C0282,A1,apparel,es,La tela es resistente y las costuras están bien hechas.,quality,1,pos,0,fit,0,,0
+C0283,A1,apparel,es,Aguantó muy bien muchos lavados. Aprieta en los hombros y el corte queda raro.,quality,1,pos,0,fit,1,neg,0
+C0284,A1,apparel,es,Aprieta en los hombros y el corte queda raro. La tela es fina y los acabados son malos. El empaque era normal.,quality,1,neg,0,fit,1,neg,0
+C0285,A1,apparel,es,La tela es resistente y las costuras están bien hechas.,quality,1,pos,0,fit,0,,0
+C0286,A1,apparel,es,El corte favorece y me queda perfecto. Aguantó muy bien muchos lavados.,quality,1,pos,0,fit,1,pos,0
+C0287,A1,apparel,es,La tela es fina y los acabados son malos. La talla es exacta y es muy cómoda. El envío tardó dos días.,quality,1,neg,0,fit,1,pos,0
+C0288,A1,apparel,es,Aguantó muy bien muchos lavados. Aprieta en los hombros y el corte queda raro. El envío tardó dos días.,quality,1,pos,0,fit,1,neg,0
+C0289,A1,apparel,es,Aguantó muy bien muchos lavados. Aprieta en los hombros y el corte queda raro. El envío tardó dos días.,quality,1,pos,0,fit,1,neg,0
+C0290,A1,apparel,es,Aguantó muy bien muchos lavados. El empaque era normal.,quality,1,pos,0,fit,0,,0
+C0291,A1,apparel,es,Aguantó muy bien muchos lavados.,quality,1,pos,0,fit,0,,0
+C0292,A1,apparel,es,Se llenó de pelusas al primer lavado y se descosió. Aprieta en los hombros y el corte queda raro.,quality,1,neg,0,fit,1,neg,0
+C0293,A1,apparel,es,Aprieta en los hombros y el corte queda raro. Aguantó muy bien muchos lavados.,quality,1,pos,0,fit,1,neg,0
+C0294,A1,apparel,es,"Se llenó de pelusas al primer lavado y se descosió. Sale muy pequeña, no pude usarla. El empaque era normal.",quality,1,neg,0,fit,1,neg,0
+C0295,A2,apparel,ko,원단이 얇고 마감이 엉망이에요. 핏이 예쁘게 떨어져서 만족합니다.,quality,1,neg,0,fit,1,pos,0
+C0296,A2,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요.,quality,1,pos,0,fit,0,,0
+C0297,A2,apparel,ko,한 번 빨았더니 보풀이 일고 실밥이 터졌어요. 사이즈가 딱 맞고 착용감이 편해요.,quality,1,neg,0,fit,1,pos,0
+C0298,A2,apparel,ko,어깨가 끼고 전체적으로 핏이 어색해요.,quality,0,,0,fit,1,neg,0
+C0299,A2,apparel,ko,사이즈가 딱 맞고 착용감이 편해요. 원단이 탄탄하고 바느질이 깔끔해요.,quality,1,pos,0,fit,1,pos,0
+C0300,A2,apparel,ko,핏이 예쁘게 떨어져서 만족합니다. 배송은 이틀 걸렸어요.,quality,0,,0,fit,1,pos,0
+C0301,A2,apparel,ko,한 번 빨았더니 보풀이 일고 실밥이 터졌어요. 핏이 예쁘게 떨어져서 만족합니다. 포장은 평범했습니다.,quality,1,neg,0,fit,1,pos,0
+C0302,A2,apparel,ko,사이즈가 딱 맞고 착용감이 편해요. 배송은 이틀 걸렸어요.,quality,0,,0,fit,1,pos,0
+C0303,A2,apparel,ko,사이즈가 너무 작게 나와서 못 입겠어요. 한 번 빨았더니 보풀이 일고 실밥이 터졌어요.,quality,1,neg,0,fit,1,neg,0
+C0304,A2,apparel,ko,한 번 입고 빨았는데 새 옷이 순식간에 빈티지가 됐어요. 배송은 이틀 걸렸어요.,quality,1,neg,1,fit,0,,0
+C0305,A2,apparel,ko,원단이 얇고 마감이 엉망이에요. 배송은 이틀 걸렸어요.,quality,1,neg,0,fit,0,,0
+C0306,A2,apparel,ko,한 번 빨았더니 보풀이 일고 실밥이 터졌어요. 핏이 예쁘게 떨어져서 만족합니다. 배송은 이틀 걸렸어요.,quality,1,neg,0,fit,1,pos,0
+C0307,A2,apparel,ko,핏이 예쁘게 떨어져서 만족합니다. 배송은 이틀 걸렸어요.,quality,0,,0,fit,1,pos,0
+C0308,A2,apparel,ko,원단이 얇고 마감이 엉망이에요. 사이즈가 너무 작게 나와서 못 입겠어요. 배송은 이틀 걸렸어요.,quality,1,neg,0,fit,1,neg,0
+C0309,A2,apparel,en,The cut is flattering and fits perfectly. Packaging was ordinary.,quality,0,,0,fit,1,pos,0
+C0310,A2,apparel,en,True to size and really comfortable to wear. Shipping took two days.,quality,0,,0,fit,1,pos,0
+C0311,A2,apparel,en,True to size and really comfortable to wear. Held up perfectly after many washes.,quality,1,pos,0,fit,1,pos,0
+C0312,A2,apparel,en,The cut is flattering and fits perfectly. Impressive how it aged into vintage after a single wash.,quality,1,neg,1,fit,1,pos,0
+C0313,A2,apparel,en,Impressive how it aged into vintage after a single wash. Tight across the shoulders and the cut feels off.,quality,1,neg,1,fit,1,neg,0
+C0314,A2,apparel,en,True to size and really comfortable to wear.,quality,0,,0,fit,1,pos,0
+C0315,A2,apparel,en,Pilled after one wash and a seam came apart. True to size and really comfortable to wear.,quality,1,neg,0,fit,1,pos,0
+C0316,A2,apparel,en,True to size and really comfortable to wear. Held up perfectly after many washes.,quality,1,pos,0,fit,1,pos,0
+C0317,A2,apparel,en,True to size and really comfortable to wear. The material is thin and the finishing is sloppy. Packaging was ordinary.,quality,1,neg,0,fit,1,pos,0
+C0318,A2,apparel,en,Impressive how it aged into vintage after a single wash.,quality,1,neg,1,fit,0,,0
+C0319,A2,apparel,en,Impressive how it aged into vintage after a single wash. Shipping took two days.,quality,1,neg,1,fit,0,,0
+C0320,A2,apparel,en,The material is thin and the finishing is sloppy.,quality,1,neg,0,fit,0,,0
+C0321,A2,apparel,en,Pilled after one wash and a seam came apart. Shipping took two days.,quality,1,neg,0,fit,0,,0
+C0322,A2,apparel,en,The cut is flattering and fits perfectly. Packaging was ordinary.,quality,0,,0,fit,1,pos,0
+C0323,A2,apparel,es,Aguantó muy bien muchos lavados. La talla es exacta y es muy cómoda.,quality,1,pos,0,fit,1,pos,0
+C0324,A2,apparel,es,Aguantó muy bien muchos lavados. El envío tardó dos días.,quality,1,pos,0,fit,0,,0
+C0325,A2,apparel,es,El corte favorece y me queda perfecto. El empaque era normal.,quality,0,,0,fit,1,pos,0
+C0326,A2,apparel,es,Aprieta en los hombros y el corte queda raro.,quality,0,,0,fit,1,neg,0
+C0327,A2,apparel,es,Aguantó muy bien muchos lavados. La talla es exacta y es muy cómoda.,quality,1,pos,0,fit,1,pos,0
+C0328,A2,apparel,es,Aguantó muy bien muchos lavados.,quality,1,pos,0,fit,0,,0
+C0329,A2,apparel,es,La tela es fina y los acabados son malos. Aprieta en los hombros y el corte queda raro. El envío tardó dos días.,quality,1,neg,0,fit,1,neg,0
+C0330,A2,apparel,es,Aguantó muy bien muchos lavados.,quality,1,pos,0,fit,0,,0
+C0331,A2,apparel,es,La tela es fina y los acabados son malos.,quality,1,neg,0,fit,0,,0
+C0332,A2,apparel,es,La tela es fina y los acabados son malos. El corte favorece y me queda perfecto.,quality,1,neg,0,fit,1,pos,0
+C0333,A2,apparel,es,Aguantó muy bien muchos lavados. El empaque era normal.,quality,1,pos,0,fit,0,,0
+C0334,A2,apparel,es,Aguantó muy bien muchos lavados.,quality,1,pos,0,fit,0,,0
+C0335,A2,apparel,es,La talla es exacta y es muy cómoda. El envío tardó dos días.,quality,0,,0,fit,1,pos,0
+C0336,A2,apparel,es,El corte favorece y me queda perfecto. La tela es fina y los acabados son malos.,quality,1,neg,0,fit,1,pos,0
+C0337,A3,apparel,ko,여러 번 빨아도 형태가 그대로라 만족합니다.,quality,1,pos,0,fit,0,,0
+C0338,A3,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 포장은 평범했습니다.,quality,1,pos,0,fit,0,,0
+C0339,A3,apparel,ko,핏이 예쁘게 떨어져서 만족합니다.,quality,0,,0,fit,1,pos,0
+C0340,A3,apparel,ko,사이즈가 딱 맞고 착용감이 편해요.,quality,0,,0,fit,1,pos,0
+C0341,A3,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요.,quality,1,pos,0,fit,0,,0
+C0342,A3,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 사이즈가 딱 맞고 착용감이 편해요. 배송은 이틀 걸렸어요.,quality,1,pos,0,fit,1,pos,0
+C0343,A3,apparel,ko,여러 번 빨아도 형태가 그대로라 만족합니다. 핏이 예쁘게 떨어져서 만족합니다.,quality,1,pos,0,fit,1,pos,0
+C0344,A3,apparel,ko,핏이 예쁘게 떨어져서 만족합니다. 여러 번 빨아도 형태가 그대로라 만족합니다.,quality,1,pos,0,fit,1,pos,0
+C0345,A3,apparel,ko,사이즈가 딱 맞고 착용감이 편해요. 포장은 평범했습니다.,quality,0,,0,fit,1,pos,0
+C0346,A3,apparel,ko,사이즈가 딱 맞고 착용감이 편해요.,quality,0,,0,fit,1,pos,0
+C0347,A3,apparel,ko,한 번 입고 빨았는데 새 옷이 순식간에 빈티지가 됐어요.,quality,1,neg,1,fit,0,,0
+C0348,A3,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요. 사이즈가 딱 맞고 착용감이 편해요. 배송은 이틀 걸렸어요.,quality,1,pos,0,fit,1,pos,0
+C0349,A3,apparel,ko,원단이 탄탄하고 바느질이 깔끔해요.,quality,1,pos,0,fit,0,,0
+C0350,A3,apparel,ko,핏이 예쁘게 떨어져서 만족합니다. 여러 번 빨아도 형태가 그대로라 만족합니다. 포장은 평범했습니다.,quality,1,pos,0,fit,1,pos,0
+C0351,A3,apparel,en,The material is thin and the finishing is sloppy. The cut is flattering and fits perfectly. Shipping took two days.,quality,1,neg,0,fit,1,pos,0
+C0352,A3,apparel,en,The fabric feels sturdy and the stitching is clean.,quality,1,pos,0,fit,0,,0
+C0353,A3,apparel,en,"Runs way too small, I couldn't wear it.",quality,0,,0,fit,1,neg,0
+C0354,A3,apparel,en,The cut is flattering and fits perfectly.,quality,0,,0,fit,1,pos,0
+C0355,A3,apparel,en,Held up perfectly after many washes. Packaging was ordinary.,quality,1,pos,0,fit,0,,0
+C0356,A3,apparel,en,The cut is flattering and fits perfectly. The fabric feels sturdy and the stitching is clean.,quality,1,pos,0,fit,1,pos,0
+C0357,A3,apparel,en,True to size and really comfortable to wear.,quality,0,,0,fit,1,pos,0
+C0358,A3,apparel,en,Held up perfectly after many washes.,quality,1,pos,0,fit,0,,0
+C0359,A3,apparel,en,The fabric feels sturdy and the stitching is clean. The cut is flattering and fits perfectly.,quality,1,pos,0,fit,1,pos,0
+C0360,A3,apparel,en,The fabric feels sturdy and the stitching is clean.,quality,1,pos,0,fit,0,,0
+C0361,A3,apparel,en,Held up perfectly after many washes.,quality,1,pos,0,fit,0,,0
+C0362,A3,apparel,en,"Fits perfectly, if you happen to be a child. Impressive how it aged into vintage after a single wash.",quality,1,neg,1,fit,1,neg,1
+C0363,A3,apparel,en,The material is thin and the finishing is sloppy. Packaging was ordinary.,quality,1,neg,0,fit,0,,0
+C0364,A3,apparel,en,The cut is flattering and fits perfectly. Held up perfectly after many washes.,quality,1,pos,0,fit,1,pos,0
+C0365,A3,apparel,es,"Sale muy pequeña, no pude usarla.",quality,0,,0,fit,1,neg,0
+C0366,A3,apparel,es,La talla es exacta y es muy cómoda. Se llenó de pelusas al primer lavado y se descosió.,quality,1,neg,0,fit,1,pos,0
+C0367,A3,apparel,es,"La tela es resistente y las costuras están bien hechas. Sale muy pequeña, no pude usarla.",quality,1,pos,0,fit,1,neg,0
+C0368,A3,apparel,es,La tela es fina y los acabados son malos. El corte favorece y me queda perfecto. El envío tardó dos días.,quality,1,neg,0,fit,1,pos,0
+C0369,A3,apparel,es,La tela es resistente y las costuras están bien hechas. Aprieta en los hombros y el corte queda raro. El envío tardó dos días.,quality,1,pos,0,fit,1,neg,0
+C0370,A3,apparel,es,Se llenó de pelusas al primer lavado y se descosió.,quality,1,neg,0,fit,0,,0
+C0371,A3,apparel,es,La tela es resistente y las costuras están bien hechas.,quality,1,pos,0,fit,0,,0
+C0372,A3,apparel,es,"Sale muy pequeña, no pude usarla. El envío tardó dos días.",quality,0,,0,fit,1,neg,0
+C0373,A3,apparel,es,La tela es resistente y las costuras están bien hechas. El empaque era normal.,quality,1,pos,0,fit,0,,0
+C0374,A3,apparel,es,Se llenó de pelusas al primer lavado y se descosió. El corte favorece y me queda perfecto.,quality,1,neg,0,fit,1,pos,0
+C0375,A3,apparel,es,La tela es resistente y las costuras están bien hechas.,quality,1,pos,0,fit,0,,0
+C0376,A3,apparel,es,"Sale muy pequeña, no pude usarla. El envío tardó dos días.",quality,0,,0,fit,1,neg,0
+C0377,A3,apparel,es,"Aguantó muy bien muchos lavados. Sale muy pequeña, no pude usarla.",quality,1,pos,0,fit,1,neg,0
+C0378,A3,apparel,es,Aguantó muy bien muchos lavados. El empaque era normal.,quality,1,pos,0,fit,0,,0
